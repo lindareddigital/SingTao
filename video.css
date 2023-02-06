@@ -1,0 +1,25 @@
+
+
+
+
+@media (max-width: 1000px){
+  .share-tool {
+    float: right;
+    justify-content: end;
+  
+  } 
+
+ 
+
+}
+
+@media (max-width: 900px){
+  /* .share-tool {
+  float: right;
+} */
+.share-tool {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}
